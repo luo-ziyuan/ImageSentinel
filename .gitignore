@@ -1,0 +1,45 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+.env
+*.env
+
+# Caches
+.ipynb_checkpoints/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.tox/
+.coverage
+htmlcov/
+
+# IDE/editor
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+
+# Data & outputs
+data/LLaVA_data/data/
+data/Products_data/test/
+data/**/sentinelImages*/
+data/**/data_embeddings/
+results/
+cache/
+*.pt
+*.pth
+*.ckpt
+*.safetensors
+*.log
