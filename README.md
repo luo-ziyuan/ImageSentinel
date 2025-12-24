@@ -1,5 +1,5 @@
 # ImageSentinel
-Official implementation of ImageSentinel: Protecting Visual Datasets from Unauthorized Retrieval-Augmented Image Generation [NeurIPS 2025].
+Official implementation of "ImageSentinel: Protecting Visual Datasets from Unauthorized Retrieval-Augmented Image Generation" [NeurIPS 2025].
 
 [![Paper](https://img.shields.io/badge/Paper-arXiv-B31B1B)](https://arxiv.org/abs/2510.12119)
 [![Poster](https://img.shields.io/badge/Poster-PDF-2F80ED)](assets/nips25_imagesentinel_poster.pdf)
